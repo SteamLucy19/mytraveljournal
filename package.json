@@ -1,7 +1,7 @@
 {
   "name": "Scrim-s03auighfb",
   "description": "https://v2.scrimba.com/s03auighfb",
-  "homepage": "https://github.com/SteamLucy19/mytraveljournal.git",
+  "homepage": "https://SteamLucy19.github.io/mytraveljournal.git",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
